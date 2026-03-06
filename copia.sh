@@ -1,4 +1,5 @@
 #!/bin/bash
+# Copiar los archivos de un directorio con cierta extension a otro directorio
 
 d1="$1"
 d2="$2"
