@@ -1,4 +1,5 @@
 #!/bin/bash
+# Generar un respaldo de un archivo dentro de una carpeta destino
 
 ORIGEN=$1
 DESTINO=$2
